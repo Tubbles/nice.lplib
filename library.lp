@@ -1,0 +1,10 @@
+(librepcb_library c87c7038-d669-4fce-bc01-a0d636b8a336
+ (name "nice!")
+ (description "Wireless technology for keyboards designed for DIY (unofficial)")
+ (keywords "")
+ (author "Tubbles")
+ (version "0.1")
+ (created 2023-07-17T17:55:10Z)
+ (deprecated false)
+ (url "")
+)
